@@ -3,9 +3,9 @@
 [Dataset](https://drive.google.com/file/d/1Fuo_ALIFKlUvOPbK5rUA5OfAS2wKn_95/view)
 
 ## Tổng quan
-### [Huấn luyện mô hình en-vi](https://github.com/Trong1102/Machine_Translation-en-vi/blob/main/Train_Transfomer_en_vi.ipynb)
-### [Huấn luyện mô hình vi-en](https://github.com/Trong1102/Machine_Translation-en-vi/blob/main/Train_Transfomer_vi_en.ipynb)
-### [Sử dụng mô hình](https://github.com/Trong1102/Machine_Translation-en-vi/blob/main/Transformer_translate.ipynb)
+### [Huấn luyện mô hình en-vi](https://github.com/NghiaPluss/translation-machine-learning-model/blob/main/Train_Transfomer_en_vi.ipynb))
+### [Huấn luyện mô hình vi-en](https://github.com/NghiaPluss/translation-machine-learning-model/blob/main/Train_Transfomer_vi_en.ipynb)
+### [Sử dụng mô hình](https://github.com/NghiaPluss/translation-machine-learning-model/blob/main/Transformer_translate.ipynb)
 
 ## Tóm tắt nội dung
 ### Mô tả về dự án
